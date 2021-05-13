@@ -1,0 +1,6 @@
+---
+sidebar: false
+---
+# Blogs
+
+<BlogList />
